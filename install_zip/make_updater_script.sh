@@ -12,8 +12,8 @@ fi
 # Some devices have multiple variants, which are almost the same,
 # Example: grouper and tilapia (WiFi and 3G versions of Nexus 7)
 case "$DEVICES" in
-    "mako")
-        DEVICES="${DEVICES} mako"
+    "ef39s")
+        DEVICES="${DEVICES} ef39s"
         ;;
 esac
 

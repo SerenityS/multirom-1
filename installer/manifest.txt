@@ -15,7 +15,7 @@ min_mrom_ver="5"
 
 # Supported devices codenames. These are checked against
 # ro.product.device property
-devices="mako"
+devices="ef39s"
 
 # ROM name. If not specified, name of the installation file is used,
 # which is recommmended. Don't use spaces.
